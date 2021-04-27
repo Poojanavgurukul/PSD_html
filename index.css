@@ -1,0 +1,26 @@
+ .hover-btn:hover{
+        background-color: #000;
+        color: #fff;
+      }
+      .bg-image{
+        background-image: url('images/01_Home.bmp');
+        background-repeat: initial;
+        background-size: cover;
+      }
+      .nav-color{
+        color: #000;
+      }
+      .input-box{
+        background: none;
+        border-bottom:1px solid #fff;
+        border-top:1px solid #fff;
+        border-left: 0;
+        border-right: 0;
+        padding: 0.5rem;
+      }
+      .input-box::placeholder{
+        color: #fff;
+      }
+      .heading{
+        letter-spacing: 0.5rem
+      }
